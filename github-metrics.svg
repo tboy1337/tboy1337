@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -133,7 +133,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                             </svg>
-                            Watching 55 repositories
+                            Watching 56 repositories
                         </div>
                     </section>
                 </div>
@@ -159,7 +159,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    157 Releases
+                                    160 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -400,14 +400,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="405.7895580749041" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="405.7895580749041" y="0" width="14.707737123536821" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="420.4972951984409" y="0" width="12.91533102238162" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="433.4126262208225" y="0" width="9.11951266335957" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="442.53213888418213" y="0" width="6.1354251216543165" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="448.6675640058364" y="0" width="5.246846998326806" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="453.9144110041632" y="0" width="4.9179285679307565" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.83233957209393" y="0" width="1.167660427905977" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="406.6507521068844" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="406.6507521068844" y="0" width="14.474088125577605" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="421.124840232462" y="0" width="12.710156417590657" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="433.83499665005274" y="0" width="8.97463891576855" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="442.8096355658213" y="0" width="6.037956971408808" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="448.84759253723007" y="0" width="5.163494914093363" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="454.0110874513234" y="0" width="4.839801724060725" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.85088917538417" y="0" width="1.149110824615865" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -479,7 +479,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.46132785763176 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.54620123203287 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -941,7 +941,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.77m out of 278m repositories</span>
+                                    <span class="gh">ranked 1.78m out of 278m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">15</div>
                                     </div>
@@ -1123,7 +1123,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Oct 2025, 10:32:46 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 27 Oct 2025, 15:30:38 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
