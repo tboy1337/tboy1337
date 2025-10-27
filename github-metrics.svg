@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -400,14 +400,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="405.7899926828153" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="405.7899926828153" y="0" width="14.707619210849108" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="420.4976118936644" y="0" width="12.915227479506141" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="433.4128393731706" y="0" width="9.11943955175581" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="442.53227892492635" y="0" width="6.135375933634414" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="448.66765485856075" y="0" width="5.246804934083586" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="453.9144597926444" y="0" width="4.917889140643569" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.83234893328796" y="0" width="1.1676510667120532" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="405.7895580749041" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="405.7895580749041" y="0" width="14.707737123536821" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="420.4972951984409" y="0" width="12.91533102238162" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="433.4126262208225" y="0" width="9.11951266335957" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="442.53213888418213" y="0" width="6.1354251216543165" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="448.6675640058364" y="0" width="5.246846998326806" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="453.9144110041632" y="0" width="4.9179285679307565" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.83233957209393" y="0" width="1.167660427905977" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -900,7 +900,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 730k out of 184m users</span>
+                                    <span class="gh">ranked 731k out of 184m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">25</div>
                                     </div>
@@ -1123,7 +1123,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Oct 2025, 05:30:10 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 27 Oct 2025, 10:32:46 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
