@@ -2497,7 +2497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BuyWhere/buywhere-mcp</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BuyWhere MCP server — search and compare products from Singapore, SEA, and US markets via Model Context Protocol. Cross-border e-commerce product catalog for AI agents.</div>
@@ -2550,7 +2550,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stephenlthorn/auto-identity-remove</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule</div>
@@ -2597,7 +2597,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MonkeySee-AI/rotunda</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🏛 An agent-first web browser</div>
@@ -2717,7 +2717,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.93360711841206 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.01848049281313 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3361,7 +3361,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Jun 2026, 10:19:30 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 11 Jun 2026, 15:08:10 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
