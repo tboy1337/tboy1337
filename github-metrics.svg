@@ -2506,7 +2506,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danielmiessler/SecLists</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.</div>
@@ -2559,7 +2559,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>router-for-me/CLIProxyAPI</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API</div>
@@ -2665,7 +2665,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stephenlthorn/auto-identity-remove</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule</div>
@@ -3370,7 +3370,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jun 2026, 09:47:07 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 14 Jun 2026, 13:06:54 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
