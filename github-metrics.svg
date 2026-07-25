@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 37 users
+                            Followed by 36 users
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    186k added, 82.3k removed
+                                    113k added, 57k removed
                                 </div>
                             </section>
                             <section>
@@ -406,14 +406,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="392.3047092108016" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="392.3047092108016" y="0" width="27.414586899465125" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="419.7192961102668" y="0" width="16.194604080505744" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="435.9139001907725" y="0" width="7.2980776454444545" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="443.21197783621693" y="0" width="6.089415334035771" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="449.3013931702527" y="0" width="4.867862944325624" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="454.16925611457833" y="0" width="3.8082668758510794" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.9775229904294" y="0" width="2.0224770095705997" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="392.2113909981006" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="392.2113909981006" y="0" width="27.408065743355273" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="419.61945674145585" y="0" width="16.300172852335088" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="435.91962959379094" y="0" width="7.296341638850509" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="443.2159712326415" y="0" width="6.087966834076368" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="449.3039380667179" y="0" width="4.866705017186407" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="454.1706430839043" y="0" width="3.8073609966964352" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.9780040806007" y="0" width="2.0219959193992842" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2507,7 +2507,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dbfixtures/pytest-postgresql</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a pytest plugin, that enables you to test your code that relies on a running PostgreSQL Database. It allows you to specify fixtures for PostgreSQL process and client.</div>
@@ -2560,7 +2560,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>heygen-com/hyperframes</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Write HTML. Render video. Built for agents.</div>
@@ -2594,13 +2594,13 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        226
+                                        227
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        2.54k
+                                        2.55k
                                     </div>
                                 </div>
                             </section>
@@ -2613,7 +2613,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>veracrypt/VeraCrypt</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Disk encryption with strong security based on TrueCrypt</div>
@@ -2666,7 +2666,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AGWA/git-crypt</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Transparent file encryption in git</div>
@@ -2733,7 +2733,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.12183436002738 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.20670773442845 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3083,7 +3083,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="28.040201005025125 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.26130653266332 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3120,12 +3120,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 528k out of 231m users</span>
+                                    <span class="gh">ranked 544k out of 231m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">37</div>
+                                        <div class="value">36</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 37 users</div>
+                                <div class="text">Followed by 36 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3377,7 +3377,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jul 2026, 12:19:38 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Jul 2026, 17:11:24 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
