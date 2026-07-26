@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    187k added, 82.8k removed
+                                    183k added, 81.7k removed
                                 </div>
                             </section>
                             <section>
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    104 Stargazers
+                                    105 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -406,14 +406,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="392.06200502204797" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="392.06200502204797" y="0" width="27.349645985234336" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="419.4116510072823" y="0" width="16.55930542685436" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="435.97095643413667" y="0" width="7.280789628807161" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="443.2517460629438" y="0" width="6.074990451385763" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="449.3267365143296" y="0" width="4.856331730263782" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="454.18306824459336" y="0" width="3.799245680913525" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.9823139255069" y="0" width="2.017686074493083" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="391.9262250182548" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="391.9262250182548" y="0" width="27.34017417978507" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="419.26639919803984" y="0" width="16.712879041282534" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="435.97927823932235" y="0" width="7.278268125497089" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="443.25754636481946" y="0" width="6.072886543799802" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="449.3304329086193" y="0" width="4.854649871954867" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="454.1850827805742" y="0" width="3.797929915584679" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.9830126961588" y="0" width="2.016987303841148" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2512,7 +2512,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dbfixtures/pytest-postgresql</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a pytest plugin, that enables you to test your code that relies on a running PostgreSQL Database. It allows you to specify fixtures for PostgreSQL process and client.</div>
@@ -2565,7 +2565,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>heygen-com/hyperframes</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Write HTML. Render video. Built for agents.</div>
@@ -2618,7 +2618,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>veracrypt/VeraCrypt</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Disk encryption with strong security based on TrueCrypt</div>
@@ -2671,7 +2671,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AGWA/git-crypt</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Transparent file encryption in git</div>
@@ -2738,7 +2738,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.20670773442845 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="95.29158110882958 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3382,7 +3382,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jul 2026, 12:27:17 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 26 Jul 2026, 17:10:40 (timezone Europe/London) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
